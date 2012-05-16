@@ -1,0 +1,3 @@
+A simple ruby script to add a comma to each email address in a column of email addresses.
+Usage :
+ruby comma.rb input.txt
